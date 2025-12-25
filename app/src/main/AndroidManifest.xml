@@ -17,8 +17,6 @@
         android:usesCleartextTraffic="false"
         android:theme="@style/Theme.LinkaVerse">
 
-
-
         <activity
             android:name=".MainActivity"
             android:exported="false" />
